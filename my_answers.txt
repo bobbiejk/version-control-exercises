@@ -1,0 +1,3 @@
+These lines have been added in GitHub!
+GitHub is used to commit it.
+Then, it is explored whatever happens with this GitHub message.

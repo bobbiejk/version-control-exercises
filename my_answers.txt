@@ -1,3 +1,7 @@
 These lines have been added on Notepad!
 I don't know what will happen with these lines on Notepad.
 But I have saved it on my computer correctly.
+=======
+These lines have been added in GitHub!
+GitHub is used to commit it.
+Then, it is explored whatever happens with this GitHub message.
